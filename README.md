@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Daniel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<!--<img align="right" alt="Programing" src="" width="500"/>-->
+<h2> Hey there! I'm Daniel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="50"></h2>
+<img align="right" alt="Programing" src="https://user-images.githubusercontent.com/64164438/101847277-a3a70380-3b31-11eb-815a-a78db5837de8.png" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -9,7 +9,7 @@
 - 💼 &nbsp; Front end Web development intern .
 - 🌱 &nbsp; Enthusiastic about learning new languages and technologies.
 - ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe that a good coffee can always solve my problems. 
 
 
 
