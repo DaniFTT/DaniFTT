@@ -1,9 +1,17 @@
 ### Hi there 👋
 
 <!--
-**DaniFTT/DaniFTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DaniFTT/DaniFTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
+
+
+<details>
+  <summary>Abri e fechar</summary>
+  
+  <tr>
+    this is going to be hidden.
+ </details>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
