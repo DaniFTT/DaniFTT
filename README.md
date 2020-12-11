@@ -12,8 +12,15 @@
 - ☕ &nbsp; I believe that a good coffee can always solve my problems. 
 
 
+<h3>🛠 Technologies</h3>
 
+- 💻 Backend: &nbsp; NodeJs | Java | C#  
+- 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs | Angular
+- 🛢 DataBase: &nbsp; MySQL | MongoDb
+- 🔧 Tools: &nbsp;   Visual Studio code | Eclipse | Git
+- 🖥 Design:&nbsp; Adobe Xd | Illustrator | Photoshop | Figma 
 
+<br>
 
 
 
