@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack Js, with Nodejs and NextJS, ReactJs
 - 🤓 &nbsp; I love to learn new technologies and programming languages
-- 🎓 &nbsp; I'm currently in the 2nd semester of Computer Engineering at the faculdade de Técnologia Termomecânica (FTT)
+- 🎓 &nbsp; I'm currently in the 3nd semester of Computer Engineering at the faculdade de Técnologia Termomecânica (FTT)
 - 💼 &nbsp; Front end Web development intern .
 - 🌱 &nbsp; Enthusiastic about learning new languages and technologies.
 - ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
