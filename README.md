@@ -1,24 +1,24 @@
-### Hi there 👋
+<h2> Hey there! I'm Daniel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<!--<img align="right" alt="Programing" src="" width="500"/>-->
 
-<!--
-**DaniFTT/DaniFTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack Js, with Nodejs and NextJS, ReactJs
+- 🤓 &nbsp; I love to learn new technologies and programming languages
+- 🎓 &nbsp; I'm currently in the 2nd semester of Computer Engineering at the faculdade de Técnologia Termomecânica (FTT)
+- 💼 &nbsp; Front end Web development intern .
+- 🌱 &nbsp; Enthusiastic about learning new languages and technologies.
+- ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
-<details>
-  <summary>Abri e fechar</summary>
-  
-  <tr>
-    this is going to be hidden.
- </details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DaniFTT&show_icons=true&theme=radical)
+
+
 
