@@ -15,7 +15,7 @@
 <h3>🛠 Technologies</h3>
 
 - 💻 Backend: &nbsp; NodeJs | Java | C#  
-- 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs | Angular
+- 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs | ReactNative 
 - 🛢 DataBase: &nbsp; MySQL | MongoDb
 - 🔧 Tools: &nbsp;   Visual Studio code | Eclipse | Git
 - 🖥 Design:&nbsp; Adobe Xd | Illustrator | Photoshop | Figma 
