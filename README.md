@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack Js, with Nodejs and NextJS, ReactJs
+- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack Js, with Nodejs, ReactJs and NextJS, 
 - 🤓 &nbsp; I love to learn new technologies and programming languages
 - 🎓 &nbsp; I'm currently in the 3rd semester of Computer Engineering at the faculdade de Técnologia Termomecânica (FTT)
 - 💼 &nbsp; Front end Web development intern .
