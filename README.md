@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack Js, with Nodejs, ReactJs and NextJS, 
+- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC 
 - 🤓 &nbsp; I love to learn new technologies and programming languages
-- 🎓 &nbsp; I'm currently in the 3rd semester of Computer Engineering at the faculdade de Técnologia Termomecânica (FTT)
-- 💼 &nbsp; Front end Web development intern .
+- 🎓 &nbsp; I'm currently in the 4rd semester of Computer Engineering at the faculdade de Técnologia Termomecânica (FTT)
+- 💼 &nbsp; C#.NET Web development intern in T-Systems.
 - 🌱 &nbsp; Enthusiastic about learning new languages and technologies.
 - ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
 - ☕ &nbsp; I believe that a good coffee can always solve my problems. 
@@ -14,11 +14,11 @@
 
 <h3>🛠 Technologies</h3>
 
-- 💻 Backend: &nbsp; NodeJs | Java | C#  
-- 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs | ReactNative 
-- 🛢 DataBase: &nbsp; MySQL | MongoDb
-- 🔧 Tools: &nbsp;   Visual Studio code | Eclipse | Git
-- 🖥 Design:&nbsp; Adobe Xd | Illustrator | Photoshop | Figma 
+- 💻 Backend: &nbsp;  C# | NodeJs  
+- 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs 
+- 🛢 DataBase: &nbsp; SQL Server | MongoDb
+- 🔧 Tools: &nbsp;   Visual Studio| Git | Postman
+- 🖥 Design:&nbsp;     Figma 
 
 <br>
 
