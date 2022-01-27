@@ -1,23 +1,22 @@
 <h2> Hey there! I'm Daniel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="50"></h2>
-<img align="right" border-radius=" 0 35px 0px 70px" alt="Programing" src="https://user-images.githubusercontent.com/64164438/101847277-a3a70380-3b31-11eb-815a-a78db5837de8.png"  width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC 
-- 🤓 &nbsp; I love to learn new technologies and programming languages
-- 🎓 &nbsp; I'm currently in the 4rd semester of Computer Engineering at the faculdade de Técnologia Termomecânica (FTT)
-- 💼 &nbsp; C#.NET Web development intern in T-Systems.
-- 🌱 &nbsp; Enthusiastic about learning new languages and technologies.
+- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC and Web API's;
+- 🤓 &nbsp; I love to learn new technologies and programming languages, at the moment i have studied a little about java and python;
+- 🎓 &nbsp; I'm currently in the 5th semester of Computer Engineering at the Faculdade Engenheiro Salvador Arena (FESA);
+- 💼 &nbsp; Full Stack Software Developer .NET Jr AT F360º;
+- 🌱 &nbsp; I really enjoy studying about Software Architecture and I love learning about the history of Computing;
 - ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
-- ☕ &nbsp; I believe that a good coffee can always solve my problems. 
+- ☕ &nbsp; I believe that a good coffee can always solve my problems (but im starting to think better about it hehe). 
 
 
 <h3>🛠 Technologies</h3>
 
-- 💻 Backend: &nbsp;  C# | NodeJs  
-- 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs 
+- 💻 Backend: &nbsp;  C#/.NET | ASP.NET | NodeJs | Java | Pyhton 
+- 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs | Angular | Vue
 - 🛢 DataBase: &nbsp; SQL Server | MongoDb
-- 🔧 Tools: &nbsp;   Visual Studio| Git | Postman
+- 🔧 Tools: &nbsp;   Visual Studio| Git | Postman | Swagger
 - 🖥 Design:&nbsp;     Figma 
 
 <br>
