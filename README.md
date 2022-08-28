@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC and Web API's;
 - 🤓 &nbsp; I love to learn new technologies and programming languages, at the moment i have studied a little about java and python;
-- 🎓 &nbsp; I'm currently in the 5th semester of Computer Engineering at the Faculdade Engenheiro Salvador Arena (FESA);
+- 🎓 &nbsp; I'm currently in the 6th semester of Computer Engineering at the Faculdade Engenheiro Salvador Arena (FESA);
 - 💼 &nbsp; Full Stack Software Developer .NET Jr at F360º;
 - 🌱 &nbsp; I really enjoy studying about Software Architecture and I love learning about the history of Computing;
 - ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
