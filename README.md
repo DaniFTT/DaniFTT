@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC and Web API's;
-- 🤓 &nbsp; I love to learn new technologies and programming languages, at the moment i have studied a little about java and python;
-- 🎓 &nbsp; I'm currently in the 8h semester of Computer Engineering at the Faculdade Engenheiro Salvador Arena (FESA);
+- 🤓 &nbsp; I love to learn new technologies and programming languages;
+- 🎓 &nbsp; I'm currently in the 9h semester of Computer Engineering at the Faculdade Engenheiro Salvador Arena (FESA);
 - 💼 &nbsp; Full Stack Software Developer .NET at F360;
 - 🌱 &nbsp; I really enjoy studying about Software Architecture and I love learning about the history of Computing;
 - ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
@@ -33,8 +33,6 @@
 <h3 align="center"> 🤝🏻 Let's Talk? </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/Cocacapitalista" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/exaustoeacabado/?hl=pt-br" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/danielsantos-sousa/" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:daniel.s.6140@gmail.com" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
