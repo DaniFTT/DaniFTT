@@ -4,8 +4,8 @@
 
 - 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC and Web API's;
 - 🤓 &nbsp; I love to learn new technologies and programming languages;
-- 🎓 &nbsp; I'm currently in the 9h semester of Computer Engineering at the Faculdade Engenheiro Salvador Arena (FESA);
-- 💼 &nbsp; Full Stack Software Developer .NET at F360 WITH 4+ years of experience;
+- 🎓 &nbsp; Computer Engineer graduated from Faculdade Engenheiro Salvador Arena (FESA) in 2024;
+- 💼 &nbsp; Full Stack Software Developer .NET at F360 WITH + years of experience;
 - 🌱 &nbsp; I really enjoy studying about Software Architecture and I love learning about the history of Computing;
 - ✍️ &nbsp; I love drama, suspense and mystery movies, I like to see some animes too.
 - ☕ &nbsp; I believe that a good coffee can always solve my problems (but im starting to think better about it hehe). 
